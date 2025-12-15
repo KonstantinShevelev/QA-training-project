@@ -1,0 +1,15 @@
+# PyCharm
+../.idea/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+*.iml
