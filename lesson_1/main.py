@@ -1,6 +1,6 @@
 print("Konstantin")
 print("Shevelev")
-print(36)
+print(31)
 
 full_name = "abracada"
 
