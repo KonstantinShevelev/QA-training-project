@@ -5,6 +5,6 @@ match data:
     case str():
         print(f"{data} string")
     case list():
-        print(f"{data}: Список")
+        print(f"{data}: List")
     case _:
-        print(f"{data}: Другой тип")
+        print(f"{data}: Another type")
